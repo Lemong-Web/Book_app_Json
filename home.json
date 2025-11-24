@@ -5,7 +5,7 @@
         "author": "Washington Irving",
         "image": "https://lemong-web.github.io/Book_app_Json/images/image1.jpg",
         "genre": "Short Stories, American Literature, Mythology, Legends & Folklore",
-        "content": [
+        "chapters": [
             {
                 "chapterID": "01",
                 "chapterName": "The Legend of Sleepy Hollow",
