@@ -9,7 +9,7 @@
             {
                 "chapterID": "01",
                 "chapterName": "The Legend of Sleepy Hollow",
-                "content": ""
+                "content": "https://lemong-web.github.io/Book_app_Json/content/thelegendofsleepyhollow.txt"
             }
         ]
     },
