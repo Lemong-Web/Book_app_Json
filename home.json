@@ -3,7 +3,7 @@
         "title": "The Legend of Sleepy Hollow",
         "description": "The Legend of Sleepy Hollow by Washington Irving is a classic short story from the early 19th century, specifically during the Romantic era. This tale is a blend of folklore and ghost story that takes place in the mythical village of Sleepy Hollow, where supernatural occurrences and local legends intertwine within a vividly described rural setting. The narrative centers on themes of love, rivalry, and the collision of rational thought with superstition. The story primarily follows Ichabod Crane, a lanky schoolteacher who arrives in Sleepy Hollow to woo the beautiful Katrina Van Tassel, daughter of a wealthy farmer. However, he is met with competition from the burly Brom Bones, who is equally determined to win her affections. As Ichabod navigates his way through local superstitions and his own fear of the supernatural, he ultimately encounters the infamous Headless Horseman during a fateful ride home. The story culminates in a climactic chase that leads to Ichabod's mysterious disappearance. Through entertaining characters and a blend of humor and horror, Irving crafts a story that remains a beloved part of American literature, exploring themes of ambition, jealousy, and the power of legend.",
         "author": "Washington Irving",
-        "image": "data/images/image1.jpg",
+        "image": "https://github.com/Lemong-Web/Book_app_Json/blob/main/images/image1.jpg",
         "genre": "Short Stories, American Literature, Mythology, Legends & Folklore",
         "content": [
             {
@@ -18,12 +18,22 @@
         "title": "Leviathan ",
         "description": "Thomas Hobbes used Leviathan to describe the social contract theory and the resulting state or commonwealth, which he envisioned as a powerful, artificial man or body politic. This artificial sovereign was created through a social contract where individuals surrender some freedoms for security, and the famous frontispiece depicts it as a gigantic human-like figure composed of the bodies of its citizens, with the sovereign as its head. ",
         "author": "Thomas Hobbes",
-        "image": "",
+        "image": "https://github.com/Lemong-Web/Book_app_Json/blob/main/images/image2.jpg",
         "genre": "Philosophy",
         "chapters": [
             {
                 "chapterID": "01",
-                "chapterName": "",
+                "chapterName": "Part 1. OF MAN (OF SENSE)",
+                "content": ""
+            },
+            {
+                "chapterID": "02",
+                "chapterName": "CHAPTER II. OF IMAGINATION (Memory)",
+                "content": ""   
+            },
+            {
+                "chapterID": "03",
+                "chapterName": "CHAPTER II. OF IMAGINATION (Dreams)",
                 "content": ""
             }
         ]
