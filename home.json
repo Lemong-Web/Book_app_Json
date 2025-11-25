@@ -24,17 +24,17 @@
             {
                 "chapterID": "01",
                 "chapterName": "Part 1. OF MAN",
-                "content": ""
+                "content": "https://lemong-web.github.io/Book_app_Json/content/leviathan/chap1.txt"
             },
             {
                 "chapterID": "02",
                 "chapterName": "CHAPTER II. OF IMAGINATION",
-                "content": ""   
+                "content": "https://lemong-web.github.io/Book_app_Json/content/leviathan/chap2.txt"   
             },
             {
                 "chapterID": "03",
                 "chapterName": "OF THE CONSEQUENCE OR TRAYNE OF IMAGINATIONS",
-                "content": ""
+                "content": "https://lemong-web.github.io/Book_app_Json/content/leviathan/chap3.txt"
             }
         ]
     }
